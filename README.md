@@ -1,5 +1,8 @@
-# Hola a todos 👋🏻, Soy Mariana Arias
-![cover](https://user-images.githubusercontent.com/110046283/191897868-0d35baf0-c078-4b55-958f-4541165dff50.png)
+# Hi, I'm Alejandro Vasquez✌🏻🙃
+
+![coverAlejandro](https://user-images.githubusercontent.com/104018861/209755783-a2ccb7ed-6560-40c9-b54d-d54a493495a4.png)
+
+
 ---
 Soy estudiante de Informática empresarial y estudiante autodidacta de Desarrollo Web enfocado en programación Frontend.
 
