@@ -1,5 +1,5 @@
 # Hi, I'm Alejandro Vasquez✌🏻🙃
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+I'm Alejandro Vasquez+!;How+are+you+?)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+like+it+programming+.+.+.)](https://git.io/typing-svg)
 
 
